@@ -174,7 +174,8 @@ header {
     line-height: 56px;
     text-transform: capitalize;
 }
-.joinbtn{
+
+.joinbtn {
     width: 160px;
     height: 64px;
     border-radius: 5px;
@@ -187,7 +188,87 @@ header {
     margin-top: 50px;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
 }
+
 .joinbtn:hover {
     color: wheat;
     background-color: #070211;
+}
+
+/* <!-- Coming Soon Section --> */
+
+.Comming-Soon {
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+.comming {
+    color: #F00;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.comming-title {
+    color: #070211;
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.comming-decp {
+    width: 393px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.redbackground {
+    width: 463px;
+    height: 463px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 15px solid #F00;
+}
+
+.EllipseIMG {
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.rightcomming {
+    padding-left: 50px;
+}
+
+.commingyear {
+    color: #F00;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20PX;
+}
+
+.comming-decp2 {
+    margin-top: 30px;
+    color: rgba(7, 2, 17, 0.60);
+    width: 270px;
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.group96img {
+    width: 140px;
+    height: 140px;
+    margin-top: 40px;
 }
