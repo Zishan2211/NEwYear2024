@@ -34,3 +34,40 @@ header {
     font-weight: 900;
     line-height: 95px;
 }
+
+/* <!-- 65 % off Offer Section --> */
+
+.Offer {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+
+.offDetels {
+    color: #F00;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.Offer-title {
+    color: #070211;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 15px;
+
+}
+.newYearimg{
+    width: 802.9px;
+    height: 500px;
+}
+.imgnewYear{
+    display: flex;
+    justify-content: center;
+}
